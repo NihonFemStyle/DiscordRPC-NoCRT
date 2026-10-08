@@ -1,3 +1,6 @@
+### Note  
+This was originally from a forum but I cannot for the life of me find the source, if you can please reach out to me!
+
 # Discord RPC — No CRT proof
 
 A tiny Windows C++ proof that publishes a fully populated Discord Rich Presence by speaking Discord's local IPC protocol directly. It uses no C runtime, no C++ runtime, and no third-party library.
